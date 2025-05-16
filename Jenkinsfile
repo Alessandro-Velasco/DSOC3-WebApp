@@ -4,7 +4,7 @@ pipeline {
   stages{
     stage('Build') {
       steps {
-        echo 'Welcome to DSOC# Webadd Building!'\
+        echo 'Welcome to DSOC3 Web-APP Building!'\
       }
     }
   }  
